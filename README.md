@@ -8,5 +8,6 @@ Requirements
 1. Beautiful Soup 
 2. Requests
 3. Pandas
+
 This project uses Python along with the Beautiful Soup 4, Requests, and Pandas libraries to extract the information from Flipkart's website
 Once the script finishes scraping, it outputs the extracted data into a CSV file that you can open and analyze using spreadsheet software.
